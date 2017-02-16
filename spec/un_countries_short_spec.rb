@@ -5,7 +5,14 @@ describe UnCountriesShort do
     expect(UnCountriesShort::VERSION).not_to be nil
   end
 
-  it "does something useful" do
-    expect(false).to eq(true)
+  describe '#countries_list' do
+
+  	subject {UnCountriesShort}
+
+  	let(:output){subject.countries_list}
+
+    it "does something useful" do
+     expect(output).to include("Zimbabwe")
+    end
   end
 end
