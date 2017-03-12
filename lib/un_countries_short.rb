@@ -16,7 +16,7 @@ module UnCountriesShort
     	"Italy","Jamaica","Japan","Jordan","Kazakhstan","Kenya","Kiribati","Kuwait","Kyrgyzstan","Lao","Latvia",
     	"Lebanon","Lesotho","Liberia","Libya","Liechtenstein","Lithuania","Luxembourg","Madagascar","Malawi","Malaysia","Maldives","Mali","Malta",
     	"Marshall Islands","Mauritania","Mauritius","Mexico","Micronesia","Monaco","Mongolia","Montenegro","Morocco","Mozambique","Myanmar",
-    	"Namibia","Nauru","Nepal","Netherlands","New Zealand","Nicaragua","Niger","Niger","North Korea","Norway","Oman","Pakistan","Palau","Panama","Papua New Guinea","Paraguay",
+    	"Namibia","Nauru","Nepal","Netherlands","New Zealand","Nicaragua","Niger","Nigeria","North Korea","Norway","Oman","Pakistan","Palau","Panama","Papua New Guinea","Paraguay",
     	"Peru","Philippines","Poland","Portugal","Qatar","Republic of Moldova","Romania","Russian Federation","Rwanda","Saint Kitts and Nev",
     	"Saint Lucia","Saint Vincent","Samoa","San Marino","Sao Tome and Principe","Saudi Arabia","Senegal","Serbia","Seychelles","Sierra Leone",
     	"Singapore","Slovakia","Slovenia","Solomon Islands","Somalia","South Africa","South Korea","South Sudan","Spain","Sri Lanka","Sudan","Suriname",

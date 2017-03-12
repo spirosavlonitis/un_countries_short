@@ -12,7 +12,7 @@ describe UnCountriesShort do
   	let(:output){subject.countries_list}
 
     it "does something useful" do
-     expect(output).to include("Zimbabwe")
+     expect(output).to include("Nigeria")
     end
   end
 end
